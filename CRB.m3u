@@ -77,3 +77,70 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPbfuSE.png" group-title="LATIN AMERICA",Travel TV
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png",History
+http://public.frst.site:2052/btm_hls/031/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAxOSA1OjU3OjAyIFBNJmhhc2hfdmFsdWU9c0hVRWcxQ2ltUTNYL1VMcTI1QTdNdz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MWYxYWI0Y2MwZDJhNWRiMw==&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png",Tvn
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1024px-Nick_Jr._logo_2009.svg.png",Nick jr
+http://public.frst.site:2052/btm_hls/143/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgOTowMzo0MSBQTSZoYXNoX3ZhbHVlPUltTnZrU0JXakYxb21UNDRCbEVON2c9PSZ2YWxpZG1pbnV0ZXM9MzAwJmlkPTFmMWFiNGNjMGQyYTVkYjM=&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/11/FoxChannel_Color.png",Fox
+http://public.frst.site:2052/btm_hls/082/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjAgMzoxMDo0MyBBTSZoYXNoX3ZhbHVlPXVTV0o1Qk5acndrOTR3eVhNZXpXNVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTFmMWFiNGNjMGQyYTVkYjM=&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/87-874042_disney-junior-logo-png-clipart.png",Disney Junior
+https://vsd20.mycdn.me:443/hls/642385119787.m3u8/sig/1Wr7I7Cj75I/expires/1583095985404/srcIp/190.5.39.137/clientType/1/srcAg/UNKNOWN_ANDROID/mid/1877353242155/642385119787_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg",Cartoon Network
+http://free.frst.site:2052/btm_hls/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDk6MzM6MzMgUE0maGFzaF92YWx1ZT13OXBxQ09pYk1IQkUvTEk3aXhBRWV3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0xZjFhYjRjYzBkMmE1ZGIz&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png",Disney Channel
+http://free.frst.site:2052/btm_hls/138/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIwIDEwOjMzOjE4IFBNJmhhc2hfdmFsdWU9b29HTURiRWE3ZDB4bTN2TitQTDNsdz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MWYxYWI0Y2MwZDJhNWRiMw==&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD
+https://vsd18.mycdn.me:443/hls/642385447467.m3u8/sig/CF8n3jyV6wU/expires/1583095531117/srcIp/190.5.39.137/clientType/1/srcAg/CHROME_ANDROID/mid/1877353700907/642385447467_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2017/02/4621f-nicktoons.png",Nick Toons
+http://free.frst.site:2052/btm_hls/145/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDk6NDc6NDAgUE0maGFzaF92YWx1ZT11UFZCNU1FYXMvQkdNVndLeDg1Rm13PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0xZjFhYjRjYzBkMmE1ZGIz&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2016/09/tooncast-na-sky-e1473261464932.jpg",Tooncast
+https://vsd51.mycdn.me:443/hls/642384792107.m3u8/sig/P19_Uj5V2tk/expires/1583096117783/srcIp/190.5.39.137/clientType/1/srcAg/UNKNOWN_ANDROID/mid/1877352980011/642384792107_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://public.frst.site:2052/btm_hls/091/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjM4OjI2IFBNJmhhc2hfdmFsdWU9VVdDVlZrWEJaK0QwSTlySGdXZVoxQT09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick
+http://public.frst.site:2052/btm_hls/144/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjAgOTowOTozNyBQTSZoYXNoX3ZhbHVlPWpRYkM3WmljbEFZZVFpZW0rTmc4THc9PSZ2YWxpZG1pbnV0ZXM9MzAwJmlkPTFmMWFiNGNjMGQyYTVkYjM=T0mdmFsaWRtaW51dGVzPTI0MCZpZD0xZjFhYjRjYzBkMmE1ZGIz&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png",HBO
+https://vsd23.mycdn.me:443/hls/578642840256.m3u8/sig/Kxe6GiONr4Q/expires/1581992474701/srcIp/190.5.39.137/clientType/1/srcAg/UNKNOWN_ANDROID/mid/1298381807296/578642840256_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Bros Tv 
+https://vsd19.mycdn.me:443/hls/654799604308.m3u8/sig/znnkENDmh-s/expires/1580677417588/srcIp/190.5.39.137/clientType/1/srcAg/CHROME_ANDROID/mid/1448996576852/654799604308_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+https://vsd22.mycdn.me:443/hls/642385250859.m3u8/sig/PHmtVkSSh1g/expires/1583095601753/srcIp/190.5.39.137/clientType/1/srcAg/CHROME_ANDROID/mid/1877353504299/642385250859_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",A&E
+http://free.frst.site:2052/btm_hls/066/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIwIDE6MzI6MjAgUE0maGFzaF92YWx1ZT1ZSkZVNExuV1pMN3QzSlFnRjBtdVVBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0xZjFhYjRjYzBkMmE1ZGIz&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",AXN
+http://public.frst.site:2052/btm_hls/068/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjQzOjQzIFBNJmhhc2hfdmFsdWU9bTQ2ZGVvTGoraWlXSExiWHhhT1ZTdz09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
+https://vsd24.mycdn.me:443/hls/642384857643.m3u8/sig/vTxGTJXyWhI/expires/1583096040205/srcIp/190.5.39.137/clientType/1/srcAg/UNKNOWN_ANDROID/mid/1877353176619/642384857643_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FRKEES6iRCk/WuIFfqRjU2I/AAAAAAAABFA/OXjCiHqjjLsnuIdUFFwglSdGIroj3zVNgCLcBGAs/s640/jjXxcZ0wMkQcvwocDkl4Y9jOQ7f.png",Fox Action
+http://public.frst.site:2052/btm_hls/074/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjM1OjIwIFBNJmhhc2hfdmFsdWU9NHQ0Mm4yclZFUHcxaXN0RStnRDdQQT09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://mpng.pngfly.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg",Space
+http://public.frst.site:2052/btm_hls/095/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjM0OjA1IFBNJmhhc2hfdmFsdWU9WjRqakpFNk1NUnN3dVc0ZEl5bmhNUT09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_MOVIES.png",Fox Movies
+http://public.frst.site:2052/btm_hls/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjMxOjU1IFBNJmhhc2hfdmFsdWU9amtCajNIN0xCVkluNkdNV2NJdDNZdz09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg",Discovery Channel 
+http://public.frst.site:2052/btm_hls/014/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjQwOjU5IFBNJmhhc2hfdmFsdWU9NkJFWWxsS0c4WlpPbEMwMGFlcmhRZz09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://img3.cuore.es/ed/da/37/rey-leon-cartel.jpg",El Rey Leon
+https://stream-mx.com/m3u8/index_MjUy.m3u8?hash=0e76d46073736a39ba4b6d369817ea02&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/wp-content/uploads/2019/02/Nat-Geo-Wild.jpg",Nat Geo Wild
+https://vsd49.mycdn.me:443/hls/671221615315.m3u8/sig/LNKXDzhAumE/expires/1581994008006/srcIp/190.5.39.137/clientType/1/srcAg/CHROME_ANDROID/mid/1646229921491/671221615315_low/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT Series
+http://public.frst.site:2052/btm_hls/099/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAxOSA2OjAyOjI0IFBNJmhhc2hfdmFsdWU9aUF3QWQ1RTJkMFhSbUFRSWxhOGJNZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MWYxYWI0Y2MwZDJhNWRiMw==&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png",National Geographic
+http://public.frst.site:2052/btm_hls/057/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjQ3OjExIFBNJmhhc2hfdmFsdWU9c01zbVV2S1liSXBWL1ZMR3V4T2twZz09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
+http://public.frst.site:2052/btm_hls/098/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjI1OjMyIFBNJmhhc2hfdmFsdWU9SHZRRzRpYzlxNE1mTkxYT3VYcVFqQT09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcGbgZc.png",CHV HD
+http://mi.chv.cl/playlist/stream.m3u8?s=hd&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/06/max-prime-1.png",Max Prime
+http://public.frst.site:2052/btm_hls/092/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE5IDEwOjI3OjMzIFBNJmhhc2hfdmFsdWU9RG9UblkxR1VXcDVGUDFuTDJkRE4rQT09JnZhbGlkbWludXRlcz03MjAw&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://dr5zngk1ollmu.cloudfront.net/sites/elamaule.cl/files/imagecache/380x285/imagen_noticia/canal_13_logo.png",CANAL 13 HD
+http://c13-live-1.cdn.nedmedia.io/index_4.m3u8?PlaylistM3UCL
+
