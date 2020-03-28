@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",~ Ecuador TV ~
+http://www.lengua.com/anthems/Ecuador.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV
+http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV Int.
+http://api.new.livestream.com/accounts/27228685/events/8710503/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-1)
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-2)
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-3)
+http://181.198.153.175:5001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/if6yIsv.png" group-title="ECUADOR",Canal Uno
+http://181.198.153.175:5001/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7CKywGU.png" group-title="ECUADOR",Canela TV
+http://inliveserver.com:1935/8074/8074/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOz8p3p.png" group-title="ECUADOR",CNT
+http://181.198.153.175:5001/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frGquQc.png" group-title="ECUADOR",Hechos TV
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cwaY0HP.png" group-title="ECUADOR",Oromar TV
+http://181.198.153.175:5001/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR",RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avUtmDH.png" group-title="ECUADOR",TC TV
+http://181.198.153.175:5001/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rs6CmZf.png" group-title="ECUADOR",Telecuenca
+http://api.new.livestream.com/accounts/280758/events/8705297/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2icSc6x.png" group-title="ECUADOR",TV Manabita
+http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-ViW8yN7Lbhw/WQga_AXP1bI/AAAAAAAACbo/s4c8pm9trnQIMqPF4X0p1V_NF3YU1CkoACLcB/s640/TVC1.png" group-title="ECUADOR",TVC
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-1)
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-2)
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="LATIN AMERICA",MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/woRgqEh.png" group-title="LATIN AMERICA",Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://melodychannel.tv/images/logomeloddy.png" group-title="LATIN AMERICA",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="LATIN AMERICA",Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRZN7Tn.png" group-title="LATIN AMERICA",Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="LATIN AMERICA",RCN (Opt-1)
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="LATIN AMERICA",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="LATIN AMERICA",Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="LATIN AMERICA",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50TYb45.png" group-title="LATIN AMERICA",TV Peru (Opt-1)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="LATIN AMERICA",25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ya3k9wU.png" group-title="LATIN AMERICA",28 Kanala
+https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/747qLjC.png" group-title="LATIN AMERICA",Beteve
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=381edbc5-f6df-0566-8c73-b767fb340d6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="LATIN AMERICA",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPbfuSE.png" group-title="LATIN AMERICA",Travel TV
+http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fp9ReNL.png" group-title="LATIN AMERICA",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
