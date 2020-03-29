@@ -24,6 +24,10 @@ http://inliveserver.com:1935/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="LATIN AMERICA",RT Español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPbfuSE.png" group-title="LATIN AMERICA",CNN
+
+https://www.youtube.com/watch?v=aEnM0q0iVrw&feature=emb_logo
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fp9ReNL.png" group-title="LATIN AMERICA",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
@@ -87,8 +91,7 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="LATIN AMERICA",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WPbfuSE.png" group-title="LATIN AMERICA",Travel TV
-https://www.youtube.com/watch?v=aEnM0q0iVrw&feature=emb_logo
+
 
 
 
