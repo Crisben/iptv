@@ -6,6 +6,15 @@ http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",Ecuavisa
+https://youtvplay.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC TV
+https://5d4837686f698.streamlock.net/tctelevision/tctelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvncanal.com.ec/web/tvncanal/images/tvn%20logo%2003%20-%20Copy.jpg" group-title="ECUADOR",TVN CANAL
+http://www.tvncanal.com.ec/web/tvncanal/tvonline1.html
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/RQgkrep-d-lcqUgkuWMrJpMHvlR-px4FsrtkoKKXyepCLSEiFZmTbGV1r6anUNtkLbl8Jbm3axqZeGrfFZ8" group-title="ECUADOR",OromarTV
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
